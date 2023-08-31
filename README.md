@@ -13,7 +13,7 @@ To build and run the project, follow these steps:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/akkaya040/*.git
+git clone https://github.com/akkaya040/DockerBasedSeleniumPythonTestAutomation.git
 ```
 
 2. Navigate to the project directory.
